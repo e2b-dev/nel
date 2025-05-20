@@ -24,9 +24,9 @@
     "license": "BSD-3-Clause",
     "devDependencies": {
         "debug": "2",
-        "eslint": "2",
+        "eslint": "9",
         "jasmine": "2",
-        "jsdoc": "3"
+        "jsdoc": "4"
     },
     "scripts": {
         "doc": "jsdoc -R README.md -d doc index.js lib",
